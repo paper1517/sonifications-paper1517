@@ -1,9 +1,9 @@
 """
 NTXentLoss implementation
 Eduardo Fonseca's extremely fast implementation, repackaged into a nice nn.Module
-https://github.com/edufonseca/uclser20/blob/main/src/utils_train_eval.py
+Original: https://github.com/edufonseca/uclser20/blob/main/src/utils_train_eval.py Copyrights @ Eduardo Fonseca
 
-Copyrights @ Eduardo Fonseca
+Hacked together by authors of paper1517
 """
 import torch
 from torch import nn
